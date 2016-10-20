@@ -19,7 +19,7 @@ h2.text-center{display: block;}
 .navbar-inverse .navbar-nav>li>a{color: #ffffff; font-size: 18px; text-transform: uppercase;}
 .navbar-inverse .navbar-nav>li>a:hover{color: #ffe93b; opacity: 1;}
 
-
+.navbar .facebook{position: absolute; right: 0px; top: 10px; }
 #main h1{font-size: 69px; line-height: 72px; color: #e92041; margin-top: 12px;}
 #main img{max-width: 100%;}
 
@@ -30,6 +30,7 @@ h2.text-center{display: block;}
 /* xs */
 @media (max-width: 767px){
   #banner-main .date{text-align: center;}
+  .navbar .facebook{display:none;}
 }
 
 /* hack to use anchor tags with sticky header. Thanks Adripants */

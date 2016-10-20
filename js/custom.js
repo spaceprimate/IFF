@@ -25,6 +25,19 @@ $( document ).ready(function() {
     });
 
 
+    $( "#schedule-content" ).load( "content/schedule.html" );
+    $( "#map-content" ).load( "content/map.html" );
+    $( "#food-content" ).load( "content/food.html" );
+    $( "#about-content" ).load( "content/about.html" );
+    $( "#kids-content" ).load( "content/kids.html" );
+    $( "#contact-content" ).load( "content/contact.html" );
+    //map
+    //food
+    //about
+    //kids
+    //contact
+
+
     $(function(){ 
         var navMain = $("#navbar");
         navMain.on("click", "a", null, function () {
