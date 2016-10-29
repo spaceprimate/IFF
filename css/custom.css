@@ -11,6 +11,8 @@ yellow:         FFE93B
 @media (max-width: 991px){
 	body .navbar-inverse .navbar-nav>li>a{font-size: 15px;}
 
+}
+
 body p{font-size: 16px;}
 body h2{margin-bottom: 20px;}
 body{margin-top: 51px;}
