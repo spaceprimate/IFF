@@ -30,11 +30,9 @@ $( document ).ready(function() {
     $( "#food-content" ).load( "content/food.html" );
     $( "#about-content" ).load( "content/about.html" );
     $( "#kids-content" ).load( "content/kids.html" );
-<<<<<<< HEAD
-=======
+
     $( "#sponsors-content" ).load( "content/sponsors.html" );
     $( "#donations-content" ).load( "content/donations.html" );
->>>>>>> 757c2ea69394b132265911741e31733bc2ced798
     $( "#contact-content" ).load( "content/contact.html" );
     //map
     //food
