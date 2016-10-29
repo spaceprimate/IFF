@@ -6,6 +6,9 @@ orange:         FF6F34
 yellow:         FFE93B
 */
 
+
+
+
 body p{font-size: 16px;}
 body h2{margin-bottom: 20px;}
 body{margin-top: 51px;}
@@ -32,6 +35,10 @@ h2.text-center{display: block;}
   #banner-main .date{text-align: center;}
   .navbar .facebook{display:none;}
 }
+
+
+.events h3{font-size: 22px; }
+.events h3 .orange{font-size: 26px;}
 
 /* hack to use anchor tags with sticky header. Thanks Adripants */
 /*
